@@ -1,1 +1,1 @@
-[snake game](Screenshot.png)
+![snake game ](Screenshot.png)
